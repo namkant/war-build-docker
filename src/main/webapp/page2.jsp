@@ -5,5 +5,5 @@
 <body>
 	<h1>Page 2</h1>
 	<p>
-		Ceci est le contenu de la page 2
+	Oups!!! tu va rester celiba lontemps lol!!
 </body>
